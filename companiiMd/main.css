@@ -1,0 +1,155 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box; text-decoration: none;
+}
+body {
+  background: #d7b477;
+  font-family: "Roboto", sans-serif;
+}
+
+.top1 {
+  position: fixed;
+  background: #c7a468;
+  width:100%;
+  box-shadow: 0 0 12px rgb(20, 20, 19);
+}
+
+.logo {
+  position: absolute;
+  height: 100%;
+  left: 10px;
+}
+
+.titlu {
+  font-size: 60px;
+  display: flex;
+  margin-top: 40px;
+  width: 100%;
+  display: inline-block;
+  position: relative;
+  text-align: center;
+}
+.md1 {
+  color: blue;
+}
+.md2 {
+  color: yellow;
+}
+.md3 {
+  color: red;
+}
+.endava1 {
+  margin-top: 230px;
+  margin-left: 10em;
+  padding: 3px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  border-radius: 15px;
+  text-decoration: none;
+}
+.moldasig1 {
+  margin-left: 15em;
+  width: 500px;
+  height: 210px;
+  padding: 3px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  border-radius: 15px;
+}
+.mdgaz1 {
+  margin-left: 39em;
+  margin-top: 2em;
+  width: 500px;
+  height: 210px;
+  padding: 3px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  border-radius: 15px;
+}
+.acc1 {
+  width: 225px;
+  height: 225px;
+  margin-left: 29em;
+  margin-top: 2em;
+  padding: 2px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  border-radius: 15px;
+}
+.ie1 {
+  text-align: center;
+  margin-top: 2em;
+  font-size: 90px;
+}
+.ie2 {
+  width: 30%;
+  font-size: 27px;
+  text-indent: 30px;
+  display: inline-block;
+  margin-left: 1em;
+  vertical-align: top;
+}
+.ie3 {
+  width: 500px;
+  height: 475px;
+  margin-left: 8em;
+}
+.ie4 {
+  width: 30%;
+  font-size: 27px;
+  text-indent: 30px;
+  display: inline-block;
+  margin-left: 3em;
+}
+.e1 {
+  border-collapse: collapse;
+  width: 45%;
+  display: inline-block;
+  margin-left: 10px;
+}
+td,
+th {
+  border: 2px solid #000;
+  padding: 4px;
+  text-align: center;
+}
+.e3 {
+  text-align: left;
+}
+.e2 {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 12px;
+}
+.e4 {
+  border-collapse: collapse;
+  width: 45%;
+  vertical-align: top;
+  float: right;
+  margin-right: 10px;
+}
+.static {
+  float: right;
+}
+.static1 {
+  position: fixed;
+  background: rgba(215, 179, 119, 0.1);
+  width: fit-content;
+  margin-top: 3%;
+  margin-right: 3%;
+  outline: 3px solid #fff;
+  padding: 2px;
+  border-radius: 10px;
+  color: #000;
+  font-size: 25px;
+  right: 0;
+}
+
+
